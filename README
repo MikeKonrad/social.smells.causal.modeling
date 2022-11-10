@@ -1,3 +1,7 @@
-# File list for social.smells.causal.modeling repository
+# File list for social.smells.causal.modeling repository:
 
-"Replication Package for Causal Analysis v3.docx" - a single Microsoft Word document describing in detail the steps taken in analyzing the OpenSSL dataset and derived social-smell and productivity metrics. Originally created in February 2022 and lightly updated in November 2022 to ensure the content matches the journal article that it supports.
+1) "Replication Package for Causal Analysis v3.docx" - this is a single Microsoft Word document describing in detail the steps taken in doing the causal analysis of 
+the OpenSSL dataset and its derived social-smell and productivity metrics. This was originally created in February 2022 and lightly updated in November 2022 to 
+ensure that the content matches the journal article that it supports: "A Socio-technical Perspective on Software Vulnerabilities: A Causal Analysis".
+
+2) Commit-flow.md - this file describes the steps involved in preparing the data and using the software for the CommitFlow tool chain. 
